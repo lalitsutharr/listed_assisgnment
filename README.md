@@ -4,7 +4,7 @@
 - React JS
 - Tailwind CSS
 
-#### [Live](https://react-dashboard-ankit.netlify.app/)
+#### [Live](https://react-dashboard-Lalit.netlify.app/)
 
 ## Adding Screenshots of the app :
 - Login Page
